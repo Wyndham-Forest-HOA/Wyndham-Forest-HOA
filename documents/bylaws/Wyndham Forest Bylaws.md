@@ -1,9 +1,9 @@
 # BYLAWS OF WYNDHAM FOREST HOMEOWNER'S ASSOCIATION, INC.
 
-This document was created from [our bylaws PDF](Wyndham Forest Bylaws.pdf). The PDF file is a more accurate version of our bylaws, as this document may have inaccuracies introduced during the optical character recognition process.
+This document was created from [our bylaws PDF](Wyndham%20Forest%20Bylaws.pdf). The PDF file is a more accurate version of our bylaws, as this document may have inaccuracies introduced during the optical character recognition process.
 
-<!-- The below comments are used by gh-md-toc (https://github.com/ekalinin/github-markdown-toc) to automatically generate the table of contents -->
 **Table of Contents**
+<!-- The below comments are used by gh-md-toc (https://github.com/ekalinin/github-markdown-toc) to automatically generate the table of contents -->
 <!--ts-->
    * [BYLAWS OF WYNDHAM FOREST HOMEOWNER'S ASSOCIATION, INC.](#bylaws-of-wyndham-forest-homeowners-association-inc)
       * [ARTICLE I - NAME, PRINCIPAL OFFICE, AND DEFINITIONS](#article-i---name-principal-office-and-definitions)
@@ -69,9 +69,6 @@ This document was created from [our bylaws PDF](Wyndham Forest Bylaws.pdf). The 
          * [Section 4. Books and Records](#section-4-books-and-records)
          * [Section 5. Notices](#section-5-notices)
          * [Section 6. Amendment](#section-6-amendment)
-
-<!-- Added by: carl, at: Sun May 10 11:34:17 EDT 2020 -->
-
 <!--te-->
 
 ## ARTICLE I - NAME, PRINCIPAL OFFICE, AND DEFINITIONS
