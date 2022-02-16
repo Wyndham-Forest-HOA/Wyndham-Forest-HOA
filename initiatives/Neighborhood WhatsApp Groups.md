@@ -73,9 +73,9 @@ At this time, we have no plans for a process to remove members that are consiste
 
 # Timeline
 
-- April 2020: Development of this proposal.
-- April 2020: Share proposal with Social Media Committee (if exists) members. Collect feedback.
-- April 2020: Share proposal with the board of directors and management company. Collect feedback.
-- April 2020: Share proposal on social media. Collect feedback.
-- May 2020: Create groups, designate admins, post admins' contact info, share on social media.
-- June 2020: A WhatsApp PARTY (a party where people introduce themselves on WhatsApp)! Fun discussion begins.
+- April 2020: Start Development of this proposal.
+- ?: Share proposal with Social Media Committee (if exists) members. Collect feedback.
+- ?: Share proposal with the board of directors and management company. Collect feedback.
+- ?: Share proposal on social media. Collect feedback.
+- ?: Create groups, designate admins, post admins' contact info, share on social media.
+- ?: A WhatsApp PARTY (a party where people introduce themselves on WhatsApp)! Fun discussion begins.
