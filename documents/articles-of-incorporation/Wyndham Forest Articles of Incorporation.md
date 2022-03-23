@@ -5,7 +5,7 @@ This document was created from [our articles of incorporation PDF](Wyndham%20For
 **Table of Contents**
 <!-- The below comments are used by gh-md-toc (https://github.com/ekalinin/github-markdown-toc) to automatically generate the table of contents -->
 <!--ts-->
-* [ARTICLES OF INCORPORATION OF WYNPHAM FOREST HOMEOWNER'S ASSOCIATION. INC.](#articles-of-incorporation-of-wynpham-forest-homeowners-association-inc)
+* [ARTICLES OF INCORPORATION OF WYNDHAM FOREST HOMEOWNER'S ASSOCIATION, INC.](#articles-of-incorporation-of-wyndham-forest-homeowners-association-inc)
    * [FIRST: Name](#first-name)
    * [SECOND: Duration](#second-duration)
    * [THIRD: Purpose and Powers](#third-purpose-and-powers)

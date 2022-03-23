@@ -74,15 +74,15 @@ This document was created from [our bylaws PDF](Wyndham%20Forest%20Bylaws.pdf). 
 ## ARTICLE I - NAME, PRINCIPAL OFFICE, AND DEFINITIONS
 
 ### Section 1. Name
-The name of the Association shall be Wyndham Forest Homeowner's Association, Inc. (hereinafter sometimes referred to as the "Association"). 
+The name of the Association shall be Wyndham Forest Homeowner's Association, Inc. (hereinafter sometimes referred to as the "Association").
 
 ### Section 2. Principal Office
-The principal office of the Association shall be located as the Board of Directors may determine. The Association may have such other offices, as the Board of Directors may determine or as the affairs of the Association may require. 
+The principal office of the Association shall be located as the Board of Directors may determine. The Association may have such other offices, as the Board of Directors may determine or as the affairs of the Association may require.
 
 ### Section 3. Definitions
-The words used in these Bylaws shall have the same meaning as set forth in that Declaration of Covenants, Conditions and Restrictions for the Association to be recorded in the Clerk's Office (said Declaration, as amended, renewed, or extended from time to time, is hereinafter sometimes referred to as the "Declaration"), unless the context shall prohibit. 
+The words used in these Bylaws shall have the same meaning as set forth in that Declaration of Covenants, Conditions and Restrictions for the Association to be recorded in the Clerk's Office (said Declaration, as amended, renewed, or extended from time to time, is hereinafter sometimes referred to as the "Declaration"), unless the context shall prohibit.
 
-## ARTICLE II - ASSOCIATION: MEMBERSHIP, MEETINGS, QUORUM, VOTING, PROXIES 
+## ARTICLE II - ASSOCIATION: MEMBERSHIP, MEETINGS, QUORUM, VOTING, PROXIES
 
 ### Section 1. Membership
 The Association shall have two (2) classes of membership, Class “A” and Class “B”, as more fully set forth in the Declaration, the terms of which pertaining to membership are specifically incorporated herein by reference.
