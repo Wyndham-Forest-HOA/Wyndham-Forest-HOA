@@ -88,7 +88,7 @@ Section 8. ”Clerk's Office" shall mean and refer to the Clerk‘s office of th
 
 Section 9. “Common Area" shall mean and refer to all real and personal property now or hereafter owned by the Association for the common use and enjoyment of every Owner, subject only to the limitations set forth in Article II, Section 1 hereof. Common Area may, but is not required to, include any Private Amenities, as defined herein. The recordation by Declarant of a subdivision plat, condominium plats and plans, or any other plat recorded by the Declarant in the Clerk's Office shall constitute the granting by Declarant to the Association of a non-exclusive easement in common with Declarant for the use, benefit, and enjoyment of all areas designated thereon, provided that Declarant shall have the right to amend, relocate or terminate any such easement comprising Common Area by recording an amendment to any such plat in the Clerk's Office at any time prior to the termination of the Class "B" Control Period. Common Area shall also include any real or personal property (including property in which the Association has previously been granted an easement) which may be conveyed in fee by deed from the Declarant to the Association at any time. The Association shall be obligated to accept as Common Area any property or interest therein conveyed to it by the Declarant.
 
-Section 10. "Common Expenses" shall mean and include the actual and estimated expenses incurred by the Association for the general benefit of all Unit Owners, including any reasonable reserve, all as may be found to be necessary and appropriate by the Board pursuant to this Declaration, the Bylaws, and the Articles of Incorporation of the Association, but shall not include any expenses incurred during the Class "B" Control Period for initial development, original construction or installation of infrastructure, original capital improvements, or other original construction costs unless approved by Voting Members representing a majority of the total Class "A" vote of the Association.
+Section 10. "Common Expenses" shall mean and include the actual and estimated expenses incurred by the Association for the general benefit of all Unit Owners, including any reasonable reserve, all as may be found to be necessary and appropriate by the Board pursuant to this Declaration, the Bylaws, and the Articles of Incorporation of the Association, but shall not include any expenses incurred during the Class "B" Control Period for initial development, original construction or installation of infrastructure, original capital improvements, or other original construction costs unless approved by a majority of the total Class "A" votes of the Association. Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 Section 11. ”Community-Wide Standard“ shall mean the standard of conduct, maintenance, or other activity generally prevailing throughout the Properties. Such standard may be more specifically determined. by' the Board. of Directors or the NeW' Construction Committee.
 
@@ -126,9 +126,9 @@ Section 27. “Supplemental Declaration" shall mean an amendment or Supplement t
 
 Section 28. "Unit" shall mean a portion of the Properties, whether developed or undeveloped, intended for develOpment, use, and occupancy as an attached or detached residence for a single family. "Developed“ as used herein'shall mean a Unit which has been conveyed by deed or recorded contract of sale and for which an occupancy use permit or certificate of occupancy has been issued, "Undeveloped“ as used herein shall mean any Unit conveyed by the Declarant or its successors or assigns to a builder by deed or recorded contract of sale and for which an occupancy use permit or certificate of occupancy has not been issued.
 
-Section 29. “Voting Group" shall mean One (1) or_more Voting Members who vote on a common slate for election of directors to the Board of Directors of the Association, as more particularly described in Article IV, Section 3(b) hereof or, if the context permits, the group of Members who Units are represented thereby.
+Article I, Section 29 removed in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
-Section 30. "Voting Member" shall mean and refer to the representative selected by the Members of each Neighborhood to be responsible for casting all votes attributable to Units in the Neighborhood on all matters requiring a voting membership, unless otherwise specifically provided in this Declaration or the Bylaws to be voted upon.
+Article I, Section 30 removed in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 ### ARTICLE II PROPERTY RIGHTS
 
@@ -175,7 +175,9 @@ The Association shall have two classes of Membership, Class "A" and Class "B".
 
 (a) Class "A". Class "A" Members shall be all Owners with the exception of the Class "B" Member, if any.
 
-Class "A" Members shall be entitled to one equal vote for each Unit in which they hold the interest. Unless otherwise specified in this Declaration or the Bylaws, the vote for each Unit shall be exercised by the Voting member, as defined in Article I, representing the Neighborhood of which the Unit is a part. The Voting member may cast all such votes as it, in its discretion, deems appropriate.
+Class "A" Members shall be entitled to one equal vote for each Unit in which they hold the interest and shall be entitled to vote on all matters requiring a vote of the membership in accordance with the Articles of Incorporation, Declaration and Bylaws and the Code of Virginia.
+
+Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 (b) Class “B". The Class "B" Member shall be the Declarant. The rights of the Class "B" Member are specified elsewhere in the Declaration and the Bylaws. The Class "B" Member shall be entitled to appoint a majority of the members of the Board of Directors during the Class "B" Control Period, as specified in Article III, Section 2, of the Bylaws. After termination of the Class “B" Control Period, the Class "B" Member shall have a right to disapprove actions of the Board of Directors and any committee as provided in Article III, Section 3, of the Bylaws. The Class "B" membership shall terminate and become converted to Class "A" membership upon the earlier of:
 
@@ -183,13 +185,10 @@ Class "A" Members shall be entitled to one equal vote for each Unit in which the
 
 (ii) when, in its discretion, the Declarant so determines.
 
-#### Section 3. Neighborhoods and Voting Groups
+#### Section 3. Neighborhoods
+Every Unit shall be located within a Neighborhood as defined in Article I, Section 18 hereof. The Units within a particular Neighborhood may be subject to additional covenants and/or the Unit owners may all be members of another owners’ association ("Neighborhood Association") in addition to the Association, but no such Neighborhood Association shall be required except in the case of a condominium or otherwise as required by law.
 
-(a) Neighborhoods. Every Unit shall be located within a Neighborhood as defined in Article I, Section 18 hereof. The Units within a particular Neighborhood may be subject to additional covenants and/or the Unit owners may all be members of another owners' association (“Neighborhood Association") in addition to the Association, but no such Neighborhood Association shall be required except in the case of a condominium or otherwise as required by law.
-
-(b) Voting Groups. In order to promote representation on the Board of Directors for various groups having dissimilar interests, the Declarant shall establish Voting Groups for election of directors to the Board. Each Voting Group shall be entitled to elect the number of directors specified in the Bylaws. Any other members of the Board of Directors shall be elected at large by all Voting Members without regard to Voting Groups.
-
-The Declarant shall establish Voting Groups not later than the date of expiration of the Class “8” Control Period by filing with the Association and in the Clerk's Office a Supplemental Declaration identifying each Voting Group and designating the Units within each group. Such designation may be amended from time to time by Declarant, acting alone, at any time prior to the expiration of the Class "B" Control Period. Until such time as Voting Groups are established by Declarant, or in the event that Declarant fails to establish Voting Groups, all Units shall be assigned to the same Voting Group.
+Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 ### ARTICLE V MAINTENANCE
 
@@ -250,14 +249,12 @@ Each Owner further covenants and agrees that in the event of a partial loss or d
 
 (a) Immediately after damage or destruction by fire or other casualty to all or any part of the Properties covered by insurance written in the name of the Association, the Board of Directors or its duly authorized agent shall provide with the 'filing and adjustment of all claims arising under such insurance and obtain reliable and detailed estimates of the cost of repair or reconstruction of the damaged or destroyed Properties.
 
-(b) Any damage or destruction to the Common Area shall be repaired or reconstructed unless the-Voting Members representing at least seventy-five (75%) of the total Class "A" vote of the Association decide within sixty (60) days after the casualty not to repair or reconstruct.
-
-No Mortgages shall have the right to participate in the determination of whether the damage or destruction to Common Area or common property of a Neighborhood Association shall be repaired or reconstructed.
+(b) Any damage or destruction to the Common Area shall be repaired or reconstructed unless at least seventy-five percent (75%) of the total Class "A" Members of the Association vote to decide within sixty (60) days after the casualty not to repair or reconstruct. Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 (c) In the event that it should be determined in the manner described above that the damage or destruction to the Common Area or to the common property of any Neighborhood Association shall not be repaired or reconstructed and no alternati improvements are authorized, then the affected portion of the Properties shall be cleared of all debris and ruins and maintained by the Association, or the Neighborhood Association, as applicable, in a neat and attractive, landscaped condition consistent with the Community-Wide Standard.
 
 #### Section 4. Repair and Reconstruction
-If the damage or destruction to the Common Area or to the common property of a Neighborhood Association for which insurance proceeds are paid is to be repaired or reconstructed, and such proceeds are not sufficient to defray the cost thereof, the Board of Directors shall, without the necessity of a vote of the Voting Members, levy a special assessment against those Owners of Units responsible for the premiums for the applicable insurance coverage under Section 1 of this Article. Additional assessments may be made in like manner at any time during or following the completion of any repair or reconstruction.
+If the damage or destruction to the Common Area for which insurance proceeds are paid is to be repaired or reconstructed, and such proceeds are not sufficient to defray the cost thereof, the Board of Directors shall, without the necessity of a vote of the Members, levy a special assessment against those Owners of Units responsible for the premiums for the applicable insurance coverage under Section 1 of this Article. Additional assessments may be made in like manner at any time during or following the completion of any repair or reconstruction. Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 ### ARTICLE VII NO PARTITION
 Except as is permitted. in the Declaration or amendments thereto, there shall be no judicial partition of the Common Area or any part thereof, nor shall any Person acquiring any interest in the Properties or any part thereof seek any judicial partition unless the Properties have been removed from the provisions of this Declaration. This Article shall not be construed to prohibit the Board of Directors from acquiring and disposing‘ of tangible personal property nor from acquiring title to real property which may or may not be subject to this Declaration.
@@ -276,7 +273,7 @@ such property.
 Declarant shall have the unilateral right to transfer to any other Person the right; privilege, and option to annex additional property which is herein reserved to Declarant, provided that such transferee or assignee shall be the developer of at least a portion of the real property described in Exhibits "A“ or "B" and that such transfer is memorialized in a written, recorded instrument executed by the Declarant.
 
 #### Section 2. Annexation with Approval of Class "A" Membership
-Subject to the consent of the owners thereof, the Association may annex real property other than that described on Exhibit "B" or which Declarant now owns or subsequently becomes the owner of, to the provisions of this Declaration and the jurisdiction of the Association. Such annexation shall require the affirmative vote of the Voting Members representing a majority of the Class "A" votes of the Association (other than those held by Declarant present at a meeting duly called for such purpose and of the Declarant, so long as Declarant owns property subject to this Declaration or which may become subject hereto in accordance with Section 1 of this Article.
+Subject to the consent of the owners thereof, the Association may annex real property other than that described on Exhibit "B" or which Declarant now owns or subsequently becomes the owner of, to the provisions of this Declaration and the jurisdiction ofthe Association. Such annexation shall require the affirmative vote of a majority of the Class "A" Members of the Association (other than those held by Declarant) present at a meeting duly called for such purpose and of the Declarant, so long as Declarant owns property subject to this Declaration or which may become subject hereto in accordance with Section 1 of this Article. Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 #### Section 3. Acquisition of Additional Common Area
 Declarant may convey to the Association additional real estate, improved or unimproved, located within the properties described in Exhibits "A" or "B", which upon conveyance or dedication to the Association shall be accepted by the Association and thereafter shall be maintained by the Association at its expense for the benefit of all its Members.
@@ -415,9 +412,11 @@ Any contractor, subcontractor, agent, employee or other invitee of an Owner who 
 Review and approval of any application pursuant to this Article is made on the basis of aesthetic considerations only, and neither the NCC nor the MC shall bear any responsibility for ensuring the structural integrity or soundness of approval construction or modifications, nor for ensuring compliance with building codes and other ornamental requirements. Neither the Declarant, the Association, the Board of Directors, any committee, or member of any of the foregoing shall be held liable for any injory, damages or loss arising out of the manner or quality of approval construction on or modifications to any Unit.
 
 ### ARTICLE XII USE RESTRICTIONS
-The Properties shall be used only for residential recreational, and related purposes (which may include, without limitation, offices for any property manager retained by the Association or business or sales offices for the Declarant or the Association as may more particularly be set forth in this Declaration and amendments hereto. The Association, acting through its Board of Injectors, shall have standing and the power to enforce such standards.
+The Properties shall be used only for residential recreational, and related purposes (which may include, without limitation, offices for any property manager retained by the Association or business or sales offices for the Declarant or the Association) as may more particularly be set forth in this Declaration and amendments hereto. The Association, acting through its Board of Directors, shall have standing and the power to enforce such standards.
 
-The Association, acting through its Board of Directors, shall have authority to make and to enforce standards and restrictions governing the use of the Properties, in addition to those contained herein, and to impose reasonable user fees for use of Common Area facilities. Such regulations and use restrictions shall be binding upon all Owners, occupants, invitees and licensees, if any, until and unless overruled, canceled or modified in a regular or special meeting of the Association by the vote of Voting Members representing a majority of the total Class "A" votes in the Association and by the Class "B" Member, so long as such membership shall exist.
+The Association, acting through its Board of Directors, shall have authority to make and to enforce standards and restrictions governing the use of the Properties, in addition to those contained herein, and to impose reasonable user fees for use of Common Area facilities. Such regulations and use restrictions shall be binding upon all Owners, occupants, invitees and licensees, if any, until and unless overruled, canceled or modified in a regular or special meeting of the Association by the vote of a majority of the total Class "A" Members in the Association and by the Class "B” Member, so long as such membership shall exist.
+
+Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 #### Section 1. Signs
 A single "for sale" or "for lease" sign shall be permitted on any Unit being offered for sale or for lease, provided it does not exceed two (2) square feet or as regulated and permitted by Section 24~104(b)(6) the Henrico County Code. Notwithstanding the above, no sign on any Unit shall exceed two (2) feet by three (3) feet in size. No other signs of any kind shall be erected within the Properties or on the Common Areas, including any Unit if-visible from outside the Unit, without the written consent of the Board of Directors, except entry and directional signs installed by Declarant or the Association.
@@ -490,7 +489,7 @@ The covenants and restrictions of this Declaration shall run with and bind the P
 #### Section 2. Amendment
 Prior to the conveyance of the first Unit, Declarant may unilaterally amend this Declaration. After such conveyance, the Declarant may unilaterally amend this Declaration at any time and from time to time if such amendment is; (a) to effect technical deletions, additions and revisions to the Declaration but which do not alter the substantive rights of those Owners or Mortgagees; (b) necessary to bring any provision hereof into compliance with any applicable government statutes, rule or regulation, or judicial determination; (c) necessary to enable any reputable title insurance company to issue title insurance coverage on the Units; (d) required by an institutional or governmental lender or purchaser of mortgage loans, including, for example, the Federal National Mortgage Association or Federal Home Loan Mortgage Company Corporation, to enable such lender or purchaser to make or purchase mortgage loans on the Units; (e) necessary to enable any governmental agency (n: reputable private insurance company to insure mortgage loans on the Units; or (f) necessary to annex any additional property into the Association; provided, however, any such amendment shall not adversely affect the title to any Unit unless the Owner shall consent thereto in writing. So long as it still OWns property described in Exhibits "A" or "B" for development as part of the Properties, the Declarant may unilaterally amend this Declaration for any other purpose.
 
-Thereafter and otherwise, this Declaration may be amended only by the affirmative vote or written consent, or any combination thereof, of Voting Members representing seventy-five percent (75%) of the total Class "A” votes in the Association, including seventy- five percent (75%) of Class "A“ votes held be Members other than the Declarant, and the consent of the Class "B" Member, so long as such membership exists. In addition, the approval requirements set forth in Article XV hereof shall be met, if applicable.
+Thereafter and otherwise, this Declaration may be amended only by the affirmative vote or written consent, or any combination thereof, of Members representing seventy-five percent (75%) of the total Class ”A ” votes in the Association and the consent of the Class "B" Member, so long as such membership exists. In addition, the approval requirements set forth in Article XV hereof shall be met, if applicable. Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 Notwithstanding the above, the percentage of votes necessary to amend a specific clause shall not be less than the prescribed percentage of affirmative votes required for action to be taken under that clause. Any amendment to be effective must be recorded in the Clerk's Office.
 
@@ -583,27 +582,42 @@ To the extent possible under Virginia law:
 
 (a) Any restoration or repair of the Properties after a partial condemnation or damage due to an insurable hazard shall be substantially in accordance with this Declaration and the original plans and specifications unless the approval Eligible is obtained of the Holders of first Mortgages on Units to which at least fifty~one percent (51%) of the votes of Units subject to Mortgages held by such Eligible Holders are allocated.
 
-(b) Any election to terminate the Association after substantial destruction or a substantial taking in condemnation shall require the approval of Voting Members representing sixty-seven percent (67%) of the total Association vote and the approval of the Eligible Holders of the first Mortgages on Units to which at Mortgages least fifty-one percent (51%) of the votes of units subject to held by such Eligible Holders are allocated.
+(b) Any election to terminate the Association after substantial destruction or a substantial taking in condemnation shall require the approval by vote of sixty-seven percent (67%) of the Class "A" Members and the approval of the Eligible Holders of the first Mortgages on Units to which at least fifty-one percent (51%) of the votes of Units subject to Mortgages held by such Eligible Holders are allocated.
 
-(c) Any election to terminate the Association under circumstances other than substantial destruction or a substantial taking in condemnation shall require the consent of Voting Members representing at least sixty-seven percent_{67%) of the Class "A" votes and of the Declarant, so long as it owns any land subject to this Declaration, and the approval of the Eligible Holders of first Mortgages on Units to which at least sixty~seven percent (67%) of the votes of Units subject to a Mortgage are allocated.
+(c) Any election to terminate the Association under circumstances other than substantial destruction or a substantial taking in condemnation shall require the consent of at least sixty-seven percent (67%) of the Class "A" votes of the Members and of the Declarant, so long as it owns any land subject to this Declaration, and the approval of the Eligible Holders of first Mortgages on Units to which at least sixty-seven percent (67%) of the votes of Units subject to a Mortgage are allocated.
 
-(d) Any material amendment to'the Declaration, By~Laws, or Articles of Incorporation of the Association shall require the consent of Voting Members representing at lease sixty seven perceni (67%) of the Class ”A” votes and of the Declarant, so long as it owns any land subject to this Declaration, and the approval of Eligible Holders of first Mortgages on Units to which at least fifty-one percent (51%) of the votes of Units subject to a Mortgage held by an Eligible Holder are allocated. An amendment which changes the provisions for any of the following shall be considered material:
+(d) Any material amendment to the Declaration, By-Laws, or Articles of Incorporation of the Association shall require the consent of at least sixty-seven percent (67%) of the Class "A" votes of the Members and of the Declarant, so long as it owns any land subject to this Declaration, and the approval of Eligible Holders of first Mortgages on Units to which at least fifty-one percent (51%) of the votes of Units subject to a Mortgage held by an Eligible Holder are allocated. An amendment which changes the provisions for any of the following shall be considered material:
 
 (i) voting rights;
+
 (ii) assessments, assessment liens, or subordination of such liens;
+
 (iii) reserves for maintenance, repair, and replacement of the Common Area;
+
 (iv) responsibility for maintenance and repair of the Properties;
+
 (v) rights to use the Common Area;
+
 (vi) boundaries of any Unit;
-(vii) expansion.or contraction.of the Properties or the addition, annexation, or withdrawal of Properties to or from the Association;
+
+(vii) expansion or contraction of the Properties or the addition, annexation, or withdrawal of Properties to or from the Association;
+
 (viii) insurance or fidelity bonds;
+
 (ix) leasing of Units;
+
 (x) imposition of any right of first refusal or similar restriction of the right of any owner to sell, transfer, or otherwise convey his or her Unit;
+
 (xi) establishment of self-management by the Association where professional management has been required by an Eligible Holder; or
+
 (xii) any provisions included in the Declaration, By-Laws or Articles of Incorporation which are for the express benefit of holders, guarantors or insurers of first Mortgages on Units.
 
+Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
+
 #### Section 3. Additional Requirements
-So long as required by the Federal Home Loan Mortgage Corporation, the following provisions apply in addition to and not in lieu of the foregoing- Unless at least sixty-seven percent (67%) of the first Mortgagees or Voting Members representing at least sixtywseven percent (67%) of the total Association vote entitled to be cast thereon consent, the Association shall not:
+So long as required by the Federal Home Loan Mortgage Corporation, the following provisions apply in addition to and not in lieu of the foregoing. Unless at least sixty-seven percent (67%) of the first Mortgagees or sixty-seven percent (67%) of the vote of the Class "A" Members consent, the Association shall not:
+
+Section modified in [Amendment 3/29/2003](https://github.com/Wyndham-Forest-HOA/Wyndham-Forest-HOA/compare/Original-Governing-Docs...CCR-Amendment-2003).
 
 (a) by act or omission seek to abandon, partition, subdivide, encumber, sell or transfer all or any portion of the real property comprising the Common Area which the Association owns, directly or indirectly (the granting of easements for public utilities or other similar purposes consistent with the intended use of the Common Area shall not be deemed a transfer within the meaning of this subsection);
 
